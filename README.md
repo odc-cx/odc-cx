@@ -140,6 +140,3 @@ Projects within this account are developed with an emphasis on:
 * Open and verifiable cryptographic design
 * Cross-disciplinary hardware and software innovation
 * Security through transparency and peer review
-
-
-Just say the vibe you want and I’ll shape it.
